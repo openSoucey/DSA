@@ -28,6 +28,8 @@ A tree whose elements have at most 2 children is called a binary tree. Since eac
         Pointer to left child
         Pointer to right child
 
-* Sorting and searching
+* Sorting - Sorting refers to arranging data in a particular format. Sorting algorithm specifies the way to arrange data in a particular order. Most common orders are in numerical or lexicographical order.
+
+* Searching
 * Priority Queues
 
