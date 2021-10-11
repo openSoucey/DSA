@@ -18,7 +18,8 @@ Mainly the following basic operations are performed in the stack:
 
     isEmpty: Returns true if the stack is empty, else false.
 
-* Lists
+* Lists - Like arrays, Linked List is a linear data structure. Unlike arrays, linked list elements are not stored at a contiguous location; the elements are linked using pointers; So random access is not allowed.
+
 * Trees
 * Sorting and searching
 * Priority Queues
