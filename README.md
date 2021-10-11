@@ -18,8 +18,16 @@ Mainly the following basic operations are performed in the stack:
 
     isEmpty: Returns true if the stack is empty, else false.
 
-* Lists
-* Trees
+* Lists - Like arrays, Linked List is a linear data structure. Unlike arrays, linked list elements are not stored at a contiguous location; the elements are linked using pointers; So random access is not allowed.
+
+* Trees - Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures, trees are hierarchical data structures.
+A tree whose elements have at most 2 children is called a binary tree. Since each element in a binary tree can have only 2 children, we typically name them the left and right child.
+    A Binary Tree node contains following parts.
+
+        Data
+        Pointer to left child
+        Pointer to right child
+
 * Sorting and searching
 * Priority Queues
 
