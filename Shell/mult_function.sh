@@ -1,9 +1,5 @@
-#The multiplication functionality from your programming language is missing and 
-#you are tasked with implementing a new multiplication function that receives 2 
-#numbers and multiplies them without using *.
-
-#get the inputs
-#use them inside the  function
+#function that receives 2 
+#numbers and multiplies them.
 
 #!/bin/bash
 echo "enter number 1"
